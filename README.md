@@ -37,9 +37,3 @@ LinkedIn:www.linkedin.com/in/careerriswan
 
 Course: Data Science Internship
 Topic: Sentiment Analysis
-
-
-⭐ Star This Project
-If you found this helpful, please give it a star! ⭐
-
-Made with ❤️ by [Riswan]
