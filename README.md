@@ -30,10 +30,4 @@ AWS EC2 - Cloud hosting
 Riswan
 
 Email: careerriswan@gmail.com
-LinkedIn:www.linkedin.com/in/careerriswan
-
-
-🎓 Project Details
-
-Course: Data Science Internship
-Topic: Sentiment Analysis
+LinkedIn:www.linkedin.com/in/
