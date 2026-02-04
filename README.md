@@ -1,16 +1,60 @@
+🛒 Flipkart Review Sentiment Analyzer
+A machine learning web app that predicts whether a Flipkart product review is Positive or Negative.
+🌐 Live Demo: http://13.61.3.69:8501
 
-# Flipkart Review Sentiment Analysis App
+🎯 What Does This Do?
+This project:
 
-This project is a Streamlit web application for predicting sentiment of Flipkart product reviews using a machine learning model.
+✅ Analyzes customer reviews from Flipkart
+✅ Predicts if a review is positive or negative
+✅ Shows confidence score (how sure the model is)
+✅ Has a beautiful web interface (built with Streamlit)
+✅ Deployed on AWS cloud (accessible 24/7)
 
-## Features
-- Text preprocessing
-- TF-IDF vectorizer
-- Trained ML sentiment model
-- Streamlit user interface
+📊 Results
 
-## How to run
+Accuracy: 92.5%
+F1-Score: 92.5%
+Model Used: Logistic Regression with TF-IDF
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+
+🛠️ Built With
+
+Python - Programming language
+scikit-learn - Machine learning
+NLTK - Text processing
+Streamlit - Web interface
+AWS EC2 - Cloud hosting
+
+📊 Results
+
+Accuracy: 92.5%
+F1-Score: 92.5%
+Model Used: Logistic Regression with TF-IDF
+
+
+🛠️ Built With
+
+Python - Programming language
+scikit-learn - Machine learning
+NLTK - Text processing
+Streamlit - Web interface
+AWS EC2 - Cloud hosting
+
+👤 Author
+Riswan
+
+Email: careerriswan@gmail.com
+LinkedIn:www.linkedin.com/in/careerriswan
+
+
+🎓 Project Details
+
+Course: Data Science Internship
+Topic: Sentiment Analysis
+
+
+⭐ Star This Project
+If you found this helpful, please give it a star! ⭐
+
+Made with ❤️ by [Riswan]
