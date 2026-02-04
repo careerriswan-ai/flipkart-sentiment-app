@@ -26,21 +26,6 @@ NLTK - Text processing
 Streamlit - Web interface
 AWS EC2 - Cloud hosting
 
-📊 Results
-
-Accuracy: 92.5%
-F1-Score: 92.5%
-Model Used: Logistic Regression with TF-IDF
-
-
-🛠️ Built With
-
-Python - Programming language
-scikit-learn - Machine learning
-NLTK - Text processing
-Streamlit - Web interface
-AWS EC2 - Cloud hosting
-
 👤 Author
 Riswan
 
